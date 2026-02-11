@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Snow",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-11T18:14:48.814079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snow On The Beach (feat. Lana Del Rey)",
+      "artist": "Taylor Swift feat. Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Snow_On_The_Beach_(feat._Lana_Del_Rey)_Taylor_Swift_feat._Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "첫눈처럼 First Snow",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": false,
+      "path": "select/02_첫눈처럼_First_Snow_Girls'_Generation_-_TTS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "첫눈처럼 (First Snow)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": false,
+      "path": "select/03_첫눈처럼_(First_Snow)_Girls'_Generation-TTS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Milly Rock (feat. Rejjie Snow)",
+      "artist": "Yung Bans",
+      "has_synced": false,
+      "path": "select/04_Don’t_Milly_Rock_(feat._Rejjie_Snow)_Yung_Bans.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blakboy Vs the Snow",
+      "artist": "The LK",
+      "has_synced": false,
+      "path": "select/05_Blakboy_Vs_the_Snow_The_LK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Momma (feat. Rejjie Snow)",
+      "artist": "Letherette",
+      "has_synced": false,
+      "path": "select/06_Momma_(feat._Rejjie_Snow)_Letherette.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After the Snow",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/07_After_the_Snow_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blank Like Snow",
+      "artist": "Movietone",
+      "has_synced": false,
+      "path": "select/08_Blank_Like_Snow_Movietone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snow Brigade",
+      "artist": "MEW",
+      "has_synced": false,
+      "path": "select/09_Snow_Brigade_MEW.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Underwater Snow",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/10_Underwater_Snow_múm.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snow White",
+      "artist": "Odd Future feat. Hodgy Beats & Frank Ocean",
+      "has_synced": true,
+      "path": "select/11_Snow_White_Odd_Future_feat._Hodgy_Beats_&_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snow White (Hodgy Beats And Frank Ocean)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/12_Snow_White_(Hodgy_Beats_And_Frank_Ocean)_Odd_Future.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snow",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_Snow_Myuk.txt"
+    }
+  ]
+}
